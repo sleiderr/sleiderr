@@ -17,10 +17,24 @@
 </p>
 
 ---
+
 <p align="center">
 Hello! 👋 I'm Sacha, a second-year student at CentraleSupélec engaged in a Computer Science MEng. <br/> Passionate about development, computer architecture, and computer science in general for many years, I've actively participated in and led numerous exciting, thrilling, and enriching projects over the years. I've also gained significant experience in network administration as one of the key network administrators at ViaRézo, the largest student-run ISP in France. <br/>
   Welcome to my GitHub, where I share my enthusiasm for computer science through projects and explorations! 🚀
 </p>
+  <h2 align="center"> Unveiling My Tech Odyssey </h2>
+<p>
+
+My interest started at a young age. Computers, to me back then, had a slightly intimidating aura, akin to powerful monsters lurking under the bed, ready to unleash havoc in our absence. This is why ever since, I've been on a quest to comprehend their inner workings.
+I started by playing around with computers, exploring the vast possibilities they offered. Eventually, I delved into web development, particularly focusing on back-end development using PHP (like many at the time). I spent several years honing my skills in this language, working on various projects and even creating my own framework, inspired by the likes of Symfony back in the day. <br/>
+Later on, my interest shifted towards game development, primarily through Minecraft and Java. The prospect of creating my own game has always been a dream, and I aspire to bring that dream to fruition someday. <br/> <br/>
+Finally, I've delved deep into understanding computer systems over the past few years—hardware operations, the intricacies of operating systems, and the crucial link between the two. This passion has driven me to embark on my most ambitious project so far: the creation of my own bootloader/OS for x86 architecture.
+It was during this period that I discovered the programming language that resonated with me the most: Rust. In my opinion, it's the most modern and thoughtfully designed language currently available—a synthesis of nearly everything that can be done best in programming (or close to it). <br/>
+
+During this time, I also embarked on a remarkable adventure as a member of ViaRézo for over a year, where I gained invaluable insights into managing a large-scale computer network—covering areas such as networking, virtualization, and systems administration.
+
+</p>
+
 
 ---
 
