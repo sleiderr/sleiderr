@@ -17,7 +17,13 @@
 </p>
 
 ---
+<p align="center">
+Hello! 👋 I'm Sacha, a second-year student at CentraleSupélec engaged in a Computer Science MEng. <br/> Passionate about development, computer architecture, and computer science in general for many years, I've actively participated in and led numerous exciting, thrilling, and enriching projects over the years. I've also gained significant experience in network administration as one of the key network administrators at ViaRézo, the largest student-run ISP in France. <br/>
+  Welcome to my GitHub, where I share my enthusiasm for computer science through projects and explorations! 🚀
+</p>
+
 ---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sleiderr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleiderr&theme=tokyonight&hide_border=false">
