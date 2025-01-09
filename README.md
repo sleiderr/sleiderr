@@ -11,7 +11,7 @@
   - Programming languages: compilers, functional programming, static analysis, DSLs, ...
   - Low-latency systems: performance engineering, user-space networking, DMA, ...
   - Machine learning: low-level performance optimization, CUDA, GPU/TPU acceleration
-  - Maths: Statistics, category theory, analysis
+  - Maths: statistics, category theory, analysis
   
   🤝 I'm always open to exciting projects and collaborations ! Reach out to me at: <a href="sdupuydauby@proton.me">sdupuydauby@proton.me</a>
 <br>
