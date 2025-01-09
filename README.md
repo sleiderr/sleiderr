@@ -4,15 +4,16 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-I'm currently a second-year student at CentraleSupélec in **Computer Science**. Passionate about anything remotely related to computers, and my main interests
-are:
-  - Low-level development: operating systems,
-  - Programming languages:
-  - Low-latency systems 
-
-I also enjoy [leetcode]-
-
-📫 Reach out to me at: <a href="sdupuydauby@proton.me">sdupuydauby@proton.me</a>
+  I'm currently a second-year student at CentraleSupélec in **Computer Science**.
+  
+  Passionate about anything remotely related to computers, and my main interests are:
+  - Low-level development: OS, networking, device drivers, computer architecture
+  - Programming languages: compilers, functional programming, static analysis, DSLs, ...
+  - Low-latency systems: performance engineering, user-space networking, DMA, ...
+  - Machine learning: low-level performance optimization, CUDA, GPU/TPU acceleration
+  - Maths: Statistics, category theory, analysis
+  
+  🤝 I'm always open to exciting projects and collaborations ! Reach out to me at: <a href="sdupuydauby@proton.me">sdupuydauby@proton.me</a>
 <br>
 
 </p>
